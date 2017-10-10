@@ -1,5 +1,7 @@
 import '../assets/bootstrap.less';
 import expect from 'expect.js';
+import 'core-js/es6/set';
+import 'core-js/es6/map';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Simulate } from 'react-dom/test-utils';
